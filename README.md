@@ -1,4 +1,4 @@
-# C-_-Alan-Hesaplama
+# C-Alan-Hesaplama
 find the area of the triangle
 
 ```sh
